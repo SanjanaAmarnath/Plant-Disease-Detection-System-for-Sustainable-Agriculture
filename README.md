@@ -1,1 +1,4 @@
 # Plant-Disease-Detection-System-for-Sustainable-Agriculture
+
+As part of my project, I am developing a Plant Disease Detection System for Sustainable Agriculture to address one of the major challenges faced by farmers—crop loss due to plant diseases. This system is designed to detect and identify diseases in plants at an early stage using computer vision and deep learning techniques. By analyzing images of plant leaves, the system can accurately classify the type of disease affecting the crop. I trained a convolutional neural network (CNN) on a large dataset of plant leaf images to ensure high accuracy in predictions. The goal of this project is to help farmers take timely and informed actions to prevent the spread of disease, reduce the use of harmful pesticides, and improve crop yield. This solution promotes sustainable farming practices by enabling data-driven crop management, ultimately contributing to improved food security and agricultural efficiency.
+
